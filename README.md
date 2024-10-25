@@ -8,4 +8,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=EminAbdullah&show_icons=true&theme=algolia" ;"alt="EminAbdullah" /></p>
 <p align="center">
   
-  [![Github profile views](https://gpvc.arturio.dev/EminAbdullah)]
+ 
